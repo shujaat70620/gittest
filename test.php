@@ -1,3 +1,5 @@
 <?php
-echo "yes";
+echo "shujaat";
+echo "yes". "no";
+echo "test";
 ?>
