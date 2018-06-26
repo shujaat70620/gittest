@@ -214,6 +214,8 @@ Class MySqliData
         else
             return (substr($string, $pos + strlen($substring)));
     }
-}
-
+} 
+echo "git2";
+echo "git1";
+echo "conflict";
 ?>
